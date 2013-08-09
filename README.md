@@ -1,4 +1,4 @@
-Gymnastics
+Gymnastics for 64 Bit ahscript
 ==========
 
 Performs the Gymnastics required to register the X10 ahscript.dll as a COM+ service.
