@@ -15,10 +15,15 @@ However, to solve the confusion, sinmply run this setup.exe file.
 Files extracted
 ---------------
 Gymnastics for 64 Bit ahscript.exe
+
 ahscript.dll
+
 CM15A_ComServ.MSI
+
 CM15A_ComSer.MSI.cab
+
 uninstall.exe
+
 uninstall.ini
 
 Gymnasticts for 64 Bit ahscript will launch automatically.
